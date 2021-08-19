@@ -1,1 +1,1 @@
-Complete a Rail course Developer 
+Firts test repo on the complete Rails Developer course By Arturo Paredes 
